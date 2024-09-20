@@ -1,0 +1,1 @@
+A Ping Pong game created using Verilog on an FPGA board for ECE 275. Credits: Siddhartha Bajracharya, Amir Seidakhmetov
